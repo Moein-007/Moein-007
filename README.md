@@ -53,8 +53,7 @@ I enjoy building complete systems — not just writing code.
 
 - 🤖 **Ostad – AI Educational Chatbot**  
   📆 2025  
-  📍 In Collaboration with <a href="https://github.com/setyesh"> Setayesh
-  </a>
+  📍 In Collaboration with <a href="https://github.com/setyesh"> Setayesh </a>   
   Designed and developed an AI-powered educational chatbot using **Django** to help students with academic problem solving.
 
 <br/>
